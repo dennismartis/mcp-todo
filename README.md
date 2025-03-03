@@ -46,6 +46,14 @@ This server allows you to:
         - `priority`: New priority from 1 (lowest) to 5 (highest) (optional)
         - `tags`: New list of tags (optional)
 
+## Installation
+
+Before running the server, you need to install the required Python packages. You can do this using pip:
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Usage
 
 To run the server, execute the `coding_todo.py` script.
